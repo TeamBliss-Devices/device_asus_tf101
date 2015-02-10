@@ -1,0 +1,8 @@
+[        
+     {
+        "remote": "TeamBliss-Devices",
+        "repository": "kernel_asus_tf101,
+        "target_path": "kernel/asus/tf101",
+        "revision": "katkiss-lp5.0"
+     } 
+] 
