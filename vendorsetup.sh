@@ -14,4 +14,4 @@
 # limitations under the License.
 #
 
-add_lunch_combo full_tf101-userdebug
+add_lunch_combo bliss_tf101-userdebug
