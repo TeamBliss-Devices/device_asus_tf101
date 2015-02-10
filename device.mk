@@ -16,6 +16,6 @@
 
 $(call inherit-product, $(LOCAL_PATH)/device_base.mk)
 
-# Add commands which are tf101 specific after here
-BOOTANIMATION_RESOLUTION := KatKiss
-$(call inherit-product-if-exists, vendor/eos/common.mk)
+
+# Inherit some common CM stuff.
+$(call inherit-product, vendor/bliss/config/common_full_tablet_wifionly.mk)
